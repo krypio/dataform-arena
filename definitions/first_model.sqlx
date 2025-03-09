@@ -1,0 +1,8 @@
+config {
+    type: "view",
+    schema: 'dataform'
+}
+
+SELECT
+    'Piotr' AS name,
+    'Krystosik' AS last_name
